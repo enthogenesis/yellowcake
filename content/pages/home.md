@@ -1,30 +1,25 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Let us take you further...
+featuredImage: https://ucarecdn.com/48600542-01da-4666-be15-0e03c19c4022/
+subtitle: >-
+  driving your online purchases to the hilltops!
+
+
+  We explore your precious brand, cultivating tailored campaigns to mushroom your digital marketplace presence
+accordion: []
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Welcome to high upon a hilltop...
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+# Who we are:
 
-# Features
-
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+* ethically responsive and concerned online partners
+* we use deep analytics to guide your brand management
+* we employ dynamic SOTA strategies to track your brand's sales
+* we parse data to blitz your PPC advertising
+* data driven, organic optimisers of your listings
+* Allies who share your brand's vision
